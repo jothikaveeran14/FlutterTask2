@@ -1,4 +1,4 @@
-//Segregate even,odd,prime numbers in different list using dart
+//Segregate even,odd numbers in different list using dart
 void main(){
 var lst=[1,2,3,4,5,6,7,8,9];
 print("List is ${lst}");
