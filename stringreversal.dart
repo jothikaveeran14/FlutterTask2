@@ -1,5 +1,6 @@
 //Reverse a given string using dart
 void main() {
   String s="helloworld";
-  print("${s.split('').reversed.join('')}");
+ print("String is ${s}");
+  print("Reversed string is ${s.split('').reversed.join('')}");
   }
