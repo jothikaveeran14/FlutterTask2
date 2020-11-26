@@ -1,6 +1,6 @@
 //Segregate even,odd numbers in different list using dart
 void main(){
-var lst=[1,2,3,4,5,6,7,8,9];
+var lst=[11,12,13,14,15,16,17,18,19];
 print("List is ${lst}");
 var evenlst=new List();
 var oddlst=new List();
